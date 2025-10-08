@@ -1,0 +1,72 @@
+[
+    {
+        "id":1,
+        "desc": "Creme de Pentear",
+        "imagem":"../Dados/Images/melancia.jpg",
+        "preco": 30.00
+    },
+
+    {
+        "id":2,
+        "desc": "Mascara de Hidratação",
+        "imagem":"../Dados/Images/morte.webp",
+        "preco": 50.00
+    },
+
+    {
+        "id":3,
+        "desc": "Shampoo Neutro",
+        "imagem":"../Dados/Images/shampoo.webp",
+        "preco": 25.00
+    },
+
+    {
+        "id":4,
+        "desc": "Perfume capilar",
+        "imagem":"../Dados/Images/capilar.jpeg",
+        "preco": 35.00
+    },
+
+    {
+        "id":5,
+        "desc": "Lip oil",
+        "imagem":"../Dados/Images/bunny.jpeg",
+        "preco": 80.00
+    },
+
+    {
+        "id":6,
+        "desc": "Escova Flex Fita Curl",
+        "imagem":"../Dados/Images/escova.jpg",
+        "preco": 27.00
+    },
+
+    {
+        "id":7,
+        "desc": "Oleo de Cabelo",
+        "imagem":"../Dados/Images/oleo.webp",
+        "preco":40.00
+    },
+
+    {
+        "id":8,
+        "desc": "Condicionador",
+        "imagem":"../Dados/Images/condicionador.webp",
+        "preco": 400.0
+    },
+
+    {
+        "id":9,
+        "desc": "Rimel",
+        "imagem":"../Dados/Images/rimel.webp",
+        "preco": 20.00
+    },
+
+    {
+        "id":10,
+        "desc": "Mosse de Cabelo",
+        "imagem":"../Dados/Images/mousse.png",
+        "preco": 400.0
+    }
+
+]
