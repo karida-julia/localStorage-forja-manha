@@ -6,7 +6,7 @@ function login(){
     var nome= $("#nome").val()
     var senha= $("#senha").val()
 
-    if(nome && senha && nome == "adimn" && senha === "12345"){
+    if(nome && senha && nome === "Kárida" && senha === "12345"){
         const user = {
             name: nome,
             dataEntrada: new Date(),
@@ -39,3 +39,4 @@ function fecharError(){
     document.getElementById("nome").style.borderBottom = "2px solid black"
     document.getElementById("senha").style.borderBottom = "2px solid black"
 }    
+

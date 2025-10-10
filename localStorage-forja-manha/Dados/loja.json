@@ -52,7 +52,7 @@
         "id":8,
         "desc": "Condicionador",
         "imagem":"../Dados/Images/condicionador.webp",
-        "preco": 400.0
+        "preco": 25.00
     },
 
     {
@@ -64,9 +64,9 @@
 
     {
         "id":10,
-        "desc": "Mosse de Cabelo",
+        "desc": "Mousse de Cabelo",
         "imagem":"../Dados/Images/mousse.png",
-        "preco": 400.0
+        "preco": 40.00
     }
 
 ]
